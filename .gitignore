@@ -1,0 +1,42 @@
+Chats/
+Projects/
+
+# Xcode
+.DS_Store
+*.swp
+*.lock
+*.xcuserstate
+xcuserdata/
+*.xccheckout
+*.moved-aside
+DerivedData/
+.idea/
+*.hmap
+*.ipa
+*.xcworkspace
+*.xcworkspacedata
+*.xcodeproj
+
+# Swift Package Manager
+.build/
+Packages/
+.Package.pins
+Package.resolved
+
+# Carthage
+Carthage/Build/
+
+# CocoaPods
+Pods/
+
+# SwiftLint
+.swiftlint.yml
+
+# Miscellaneous
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+*.o
+*.pyc
