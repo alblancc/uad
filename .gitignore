@@ -1,6 +1,8 @@
 Chats/
 Projects/
 
+user_key.txt
+
 # Xcode
 .DS_Store
 *.swp
